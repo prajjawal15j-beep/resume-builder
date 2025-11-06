@@ -1,0 +1,6 @@
+Flask==2.2.5
+PyPDF2==3.0.0
+docx2txt==0.8
+python-docx==0.8.11
+flask-cors==3.0.10
+
